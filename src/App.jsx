@@ -7,7 +7,6 @@ import Achievements from './components/Achievements';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './App.css';
 
 function App() {
   return (
@@ -27,3 +26,4 @@ function App() {
 }
 
 export default App;
+

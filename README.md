@@ -37,10 +37,10 @@ To customize the content of the portfolio, edit the following files:
 1.  **Create a new repository on GitHub.**
 2.  **Push the code to the repository.**
 3.  **Update `package.json`:**
-    -   Replace `<your-github-username>` with your GitHub username.
-    -   Replace `<your-repo-name>` with the name of your repository.
+    -   Replace `TejasweeSulekh` with your GitHub username.
+    -   Replace `Portfolio-Website` with the name of your repository.
 4.  **Update `vite.config.js`:**
-    -   Replace `<your-repo-name>` with the name of your repository.
+    -   Replace `Portfolio-Website` with the name of your repository.
 5.  **Run the deploy script:**
     ```bash
     npm run deploy
@@ -49,4 +49,4 @@ To customize the content of the portfolio, edit the following files:
 6.  **Enable GitHub Pages:**
     -   In your repository's settings, go to the "Pages" section.
     -   Select the `gh-pages` branch as the source.
-    -   Your website will be live at `https://<your-github-username>.github.io/<your-repo-name>`.
+    -   Your website will be live at `https://TejasweeSulekh.github.io/Portfolio-Website`.
